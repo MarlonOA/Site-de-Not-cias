@@ -1,0 +1,65 @@
+#navegacao {
+
+    list-style: 0;
+    flex-direction: row;
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    justify-content: start;
+    align-items: flex-end;
+}
+
+#topo {
+    justify-content: center;
+    display: flex;
+    background-color: #00FF00;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    display: inline-block;
+}
+
+
+ul {
+    list-style: none;
+    font-style: italic;
+
+}
+
+hr {
+    border: 0;
+    border-top: 0.5px solid black;
+    margin: 50px;
+}
+
+img {
+    height: 300px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+
+}
+
+h2 {
+
+    text-align: center;
+}
+
+#video {
+    text-align: center;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,58 @@
+#image {
+
+border: 4px solid rgb(184, 168, 30);
+display: flexbox;
+
+}
+
+#image:hover{
+/*border: 4px solid red;*/
+height: 99%;
+width: 29%;
+}
+
+#menu {
+
+background-color: antiquewhite;
+
+}
+
+#root {
+display: flex;
+justify-content: end;
+align-items: center;
+width: 100%;
+}
+
+#mudar {
+margin-right: 20px;
+}
+
+body, .span{
+padding-left: 20px;
+}
+
+body{
+background-color: rgb(31, 31, 31);
+}
+
+#video {
+display: grid;
+place-items: center;
+}
+
+#videozinho {
+height: 300px;
+width: 150px;
+}
+
+#footer{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+#botão {
+align-items: center;
+
+}

@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.center{
+    display: flex;
+    justify-content: space-between;
+    background-color:goldenrod;
+    padding: 5px;
+
+}
+ 
+.header{
+    padding:100px ;
+}
+
+#imagem{
+    width: 850px;
+    height:400px;
+    border: 12px dashed goldenrod;
+}
+
+.nutri{
+    padding-top: 5px;
+    width: 1000px;
+    text-align:left;
+}
+
+
+.imagem{
+    width: 50%;
+}
+
+.menu{
+    padding-top:20px;
+    width:100%;
+    text-align: right;
+}
+
+.menu a{
+    color:black;
+    text-decoration: nome;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+
+section.sobre{
+
+    height:  500px;
+    position: relative;
+}
+
+#imagenzinha{
+    width: 400px;
+    height: 300px;
+}
+
+.extra{
+    position:absolute;
+    bottom:0;
+    right: 0;
+    width: 300px;
+    height: 300px;
+}
+
+.texto{
+    margin-top: 30px;
+    text-align: left;
+    padding-top: 10px;
+    width:800px;
+    font-size: 8;
+}
+
+.textinho{
+    width: 1065px;
+    text-align: left;
+    font-size: 9;
+}
+
+span{
+padding-left: 20px;
+
+}
